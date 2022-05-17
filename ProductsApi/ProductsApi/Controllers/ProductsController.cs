@@ -2,7 +2,6 @@
 using ProductsApi.Models;
 using ProductsApi.ProductData;
 using System;
-using System.Linq;
 using System.Net;
 
 namespace ProductsApi.Controllers
